@@ -1,7 +1,5 @@
 # MachineLearning
-Thanks for visiting my github! 
-
-There are two notebooks in this repository: 
+Thanks for visiting my github! There are two notebooks in this repository: 
 
   ml-project-Avito.ipynb   --->  group submission version 
 	
