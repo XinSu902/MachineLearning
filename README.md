@@ -1,8 +1,8 @@
 # MachineLearning
 Thanks for visiting my github! 
 
-There are two notebooks in this repository:
-  ml-project-Avito.ipynb   --->  group submission version
+There are two notebooks in this repository: \n
+  ml-project-Avito.ipynb   --->  group submission version \n
   ml-project-v6(1).ipynb   --->  my attempt after reading some helpful kernals
 
 Referrence kernals:
