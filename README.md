@@ -1,5 +1,7 @@
 # MachineLearning
-Thanks for visiting my github! There are two notebooks in this repository: 
+This is a Kaggle competition about predicting deal probability of Avito online ads 
+
+There are two notebooks in this repository: 
 
   ml-project-v12.ipynb   --->  final version 
 	
