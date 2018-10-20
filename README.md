@@ -7,8 +7,11 @@ There are two notebooks in this repository:
 
 Referrence kernals:
 https://www.kaggle.com/shreyagaikwad/avito；
+
 https://www.kaggle.com/hugoncosta/tweaked-simple-catboost-tfidf
+
 https://www.kaggle.com/sudalairajkumar/simple-exploration-baseline-notebook-avito
+
 https://www.kaggle.com/bofeee/catboostattempt/notebook
 
 
